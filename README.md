@@ -25,3 +25,9 @@ Recomended to replace the actual programs on the vm and disable alternitives suc
    * Just creates "realistic" gift card number and pins
    * i.e correct card number length and charset and pin length
    * Scammers normally have to type these into notepad so wont realise they arent real until later on
+   
+1. Tree
+   * Contains both the Windows 10 and Windows 7 versions of tree so that it can work on both platforms.
+   * Runs the correct version of tree from the command prompt.
+   * Appends a message to the output off tree confirming that their are no viruses present on the machine
+   * Everyone knows that tree.exe is the No. 1 antivirus on the Windows Platform [Citation Needed]
