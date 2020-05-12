@@ -146,5 +146,10 @@ namespace Notepad
         {
             fontTimer.Start();
         }
+
+        private void pasteToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            txtMain.Clear();
+        }
     }
 }
