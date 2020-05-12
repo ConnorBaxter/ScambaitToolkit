@@ -10,3 +10,15 @@ C:\Users\conno\source\repos\SysKey\SysKey\obj\Debug\SysKey.exe
 C:\Users\conno\source\repos\SysKey\SysKey\obj\Debug\SysKey.pdb
 C:\Users\conno\source\repos\SysKey\SysKey\bin\Debug\settings.txt
 C:\Users\conno\source\repos\SysKey\SysKey\obj\Debug\SysKey.firstForm.resources
+C:\Users\conno\Source\Repos\ConnorBaxter\ScambaitToolkit\SysKey\bin\Debug\settings.txt
+C:\Users\conno\Source\Repos\ConnorBaxter\ScambaitToolkit\SysKey\bin\Debug\SysKey.exe
+C:\Users\conno\Source\Repos\ConnorBaxter\ScambaitToolkit\SysKey\bin\Debug\SysKey.pdb
+C:\Users\conno\Source\Repos\ConnorBaxter\ScambaitToolkit\SysKey\obj\Debug\SysKey.csprojAssemblyReference.cache
+C:\Users\conno\Source\Repos\ConnorBaxter\ScambaitToolkit\SysKey\obj\Debug\SysKey.firstForm.resources
+C:\Users\conno\Source\Repos\ConnorBaxter\ScambaitToolkit\SysKey\obj\Debug\SysKey.popupForm.resources
+C:\Users\conno\Source\Repos\ConnorBaxter\ScambaitToolkit\SysKey\obj\Debug\SysKey.Properties.Resources.resources
+C:\Users\conno\Source\Repos\ConnorBaxter\ScambaitToolkit\SysKey\obj\Debug\SysKey.UpdateForm.resources
+C:\Users\conno\Source\Repos\ConnorBaxter\ScambaitToolkit\SysKey\obj\Debug\SysKey.csproj.GenerateResource.cache
+C:\Users\conno\Source\Repos\ConnorBaxter\ScambaitToolkit\SysKey\obj\Debug\SysKey.csproj.CoreCompileInputs.cache
+C:\Users\conno\Source\Repos\ConnorBaxter\ScambaitToolkit\SysKey\obj\Debug\SysKey.exe
+C:\Users\conno\Source\Repos\ConnorBaxter\ScambaitToolkit\SysKey\obj\Debug\SysKey.pdb
