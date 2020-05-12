@@ -19,3 +19,9 @@ Recomended to replace the actual programs on the vm and disable alternitives suc
    * Font chooser works as expected as of now but will be intentionally broken in the future.
    * Font slowly gets bigger as notepad is open
    * Font scale level using Ctrl+[ and Ctrl+] but in reverse.
+   
+1. Giftcard Generator
+   * Very simple random number generator
+   * Just creates "realistic" gift card number and pins
+   * i.e correct card number length and charset and pin length
+   * Scammers normally have to type these into notepad so wont realise they arent real until later on
