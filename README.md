@@ -2,6 +2,7 @@
 C# .Net Framework scambait toolkit. Replacements for standard Windows programs with a little extra added ;)
 Recomended to replace the actual programs on the vm and disable alternitives such as wordpad
 
+View raw for best formatting until updated!
 1. Syskey
   After setting a password the passwords are written to a textfile for inspection.
   Numerous popups with a message of your chosing(by editing settings.txt) are show which move as you try to hover over them
