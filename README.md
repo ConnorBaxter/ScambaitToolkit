@@ -14,3 +14,7 @@ View raw for best formatting until updated!
   
 2. Notepad
   Still in development.
+  Pressing tab key inserts "TAB" into textbox.
+  Trying to enter a colon or semicolon will print a smiley face :-)
+  Trying to enter a hyphen will insert an underscore.
+  Font chooser works as expected as of now but will be intentionally broken in the future.
