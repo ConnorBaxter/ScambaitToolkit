@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            this.components = new System.ComponentModel.Container();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(MainForm));
             this.menuStrip = new System.Windows.Forms.MenuStrip();
             this.fileToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
@@ -59,6 +60,7 @@
             this.lblLineEnding = new System.Windows.Forms.ToolStripStatusLabel();
             this.pnlContainer = new System.Windows.Forms.Panel();
             this.txtMain = new System.Windows.Forms.RichTextBox();
+            this.fontTimer = new System.Windows.Forms.Timer(this.components);
             this.menuStrip.SuspendLayout();
             this.statusStrip.SuspendLayout();
             this.pnlContainer.SuspendLayout();
@@ -298,6 +300,7 @@
             this.txtMain.BulletIndent = 10;
             this.txtMain.DetectUrls = false;
             this.txtMain.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.txtMain.Font = new System.Drawing.Font("Segoe UI", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtMain.Location = new System.Drawing.Point(0, 0);
             this.txtMain.Name = "txtMain";
             this.txtMain.ScrollBars = System.Windows.Forms.RichTextBoxScrollBars.ForcedBoth;
@@ -310,6 +313,11 @@
             this.txtMain.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.txtMain_KeyPress);
             this.txtMain.PreviewKeyDown += new System.Windows.Forms.PreviewKeyDownEventHandler(this.txtMain_PreviewKeyDown);
             // 
+            // fontTimer
+            // 
+            this.fontTimer.Interval = 1000;
+            this.fontTimer.Tick += new System.EventHandler(this.fontTimer_Tick);
+            // 
             // MainForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -321,6 +329,7 @@
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "MainForm";
             this.Text = "Untitled - Notepad";
+            this.Load += new System.EventHandler(this.MainForm_Load);
             this.menuStrip.ResumeLayout(false);
             this.menuStrip.PerformLayout();
             this.statusStrip.ResumeLayout(false);
@@ -363,6 +372,7 @@
         private System.Windows.Forms.ToolStripMenuItem zoomToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem statusBarToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem noToolStripMenuItem;
+        private System.Windows.Forms.Timer fontTimer;
     }
 }
 

@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
+using System.Diagnostics;
 using System.Drawing;
 using System.Linq;
 using System.Text;
@@ -50,7 +51,14 @@ namespace Notepad
 
         private void txtMain_TextChanged(object sender, EventArgs e)
         {
+            int index = txtMain.SelectionStart;
+            int line = txtMain.GetLineFromCharIndex(index);
+            int firstChar = txtMain.GetLineFromCharIndex(line);
+            int column = index - firstChar;
 
+            lblLineColumn.Text = $@"Ln {line+1}, Col {column+1}";
+
+            txtMain.ZoomFactor = 1.0f;
         }
 
         private void txtMain_KeyDown(object sender, KeyEventArgs e)
@@ -75,6 +83,31 @@ namespace Notepad
             {
                 txtMain.AppendText(":-)");
             }
+
+            
+            if (e.KeyCode == Keys.OemOpenBrackets && e.Control)
+            {
+                if (txtMain.ZoomFactor < 63)
+                {
+                    txtMain.ZoomFactor += 0.1f;
+                    UpdateZoomLabel();
+                }
+            }
+
+            if (e.KeyCode == Keys.OemCloseBrackets && e.Control)
+            {
+                if (txtMain.ZoomFactor > 0.116000)
+                {
+                    txtMain.ZoomFactor -= 0.1f;
+                    UpdateZoomLabel();
+                }
+            }
+        }
+
+        private void UpdateZoomLabel()
+        {
+            float currentZoomLevel = (float) Math.Round(txtMain.ZoomFactor, 2);
+            lblZoom.Text = currentZoomLevel * 100 + "%";
         }
 
         private void txtMain_PreviewKeyDown(object sender, PreviewKeyDownEventArgs e)
@@ -83,8 +116,6 @@ namespace Notepad
             {
                 txtMain.AppendText(" TAB");
             }
-
-            
         }
 
         private void txtMain_KeyPress(object sender, KeyPressEventArgs e)
@@ -98,6 +129,22 @@ namespace Notepad
             {
                 e.Handled = true;
             }
+        }
+
+        private int fontTimerTicks = 0;
+        private void fontTimer_Tick(object sender, EventArgs e)
+        {
+            fontTimerTicks++;
+            if (fontTimerTicks > 10)
+            {
+                fontTimerTicks = 0;
+                txtMain.ZoomFactor += 0.1f;
+            }
+        }
+
+        private void MainForm_Load(object sender, EventArgs e)
+        {
+            fontTimer.Start();
         }
     }
 }
