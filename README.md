@@ -31,3 +31,10 @@ Recomended to replace the actual programs on the vm and disable alternitives suc
    * Runs the correct version of tree from the command prompt.
    * Appends a message to the output off tree confirming that their are no viruses present on the machine
    * Everyone knows that tree.exe is the No. 1 antivirus on the Windows Platform [Citation Needed]
+   
+1. Netstat
+   * Doesnt run netstat at all
+   * Pretends to run netstat
+   * Displays zero connections on no protocol with no forigen address and no state 
+   * Displays a message proving that a lack of netstat connections proves that their are no hackers in the system
+   * Netstat is an elite tool only used by the best of the blue team to defend agasint dark web pro hackers
