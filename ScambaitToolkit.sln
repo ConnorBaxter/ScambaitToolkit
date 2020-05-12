@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GiftcardGenerator", "Giftca
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tree", "tree\tree.csproj", "{1E5E8F23-82FC-43E6-9A4F-40EEA7D4A758}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "netstat", "netstat\netstat.csproj", "{7EF81FF7-7FC0-4222-9099-8B5DC60228EC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{1E5E8F23-82FC-43E6-9A4F-40EEA7D4A758}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1E5E8F23-82FC-43E6-9A4F-40EEA7D4A758}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1E5E8F23-82FC-43E6-9A4F-40EEA7D4A758}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7EF81FF7-7FC0-4222-9099-8B5DC60228EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EF81FF7-7FC0-4222-9099-8B5DC60228EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EF81FF7-7FC0-4222-9099-8B5DC60228EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EF81FF7-7FC0-4222-9099-8B5DC60228EC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
