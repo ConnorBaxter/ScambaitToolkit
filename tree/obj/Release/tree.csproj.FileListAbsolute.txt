@@ -1,0 +1,8 @@
+C:\Users\conno\Source\Repos\ConnorBaxter\ScambaitToolkit\tree\bin\Release\tree.exe.config
+C:\Users\conno\Source\Repos\ConnorBaxter\ScambaitToolkit\tree\bin\Release\tree.exe
+C:\Users\conno\Source\Repos\ConnorBaxter\ScambaitToolkit\tree\bin\Release\tree.pdb
+C:\Users\conno\Source\Repos\ConnorBaxter\ScambaitToolkit\tree\obj\Release\tree.Resource.resources
+C:\Users\conno\Source\Repos\ConnorBaxter\ScambaitToolkit\tree\obj\Release\tree.csproj.GenerateResource.cache
+C:\Users\conno\Source\Repos\ConnorBaxter\ScambaitToolkit\tree\obj\Release\tree.csproj.CoreCompileInputs.cache
+C:\Users\conno\Source\Repos\ConnorBaxter\ScambaitToolkit\tree\obj\Release\tree.exe
+C:\Users\conno\Source\Repos\ConnorBaxter\ScambaitToolkit\tree\obj\Release\tree.pdb
