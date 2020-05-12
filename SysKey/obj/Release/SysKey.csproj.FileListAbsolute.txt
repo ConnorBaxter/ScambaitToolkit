@@ -1,0 +1,10 @@
+C:\Users\conno\source\repos\SysKey\SysKey\bin\Release\SysKey.exe
+C:\Users\conno\source\repos\SysKey\SysKey\bin\Release\SysKey.pdb
+C:\Users\conno\source\repos\SysKey\SysKey\obj\Release\SysKey.Form1.resources
+C:\Users\conno\source\repos\SysKey\SysKey\obj\Release\SysKey.popupForm.resources
+C:\Users\conno\source\repos\SysKey\SysKey\obj\Release\SysKey.Properties.Resources.resources
+C:\Users\conno\source\repos\SysKey\SysKey\obj\Release\SysKey.UpdateForm.resources
+C:\Users\conno\source\repos\SysKey\SysKey\obj\Release\SysKey.csproj.GenerateResource.cache
+C:\Users\conno\source\repos\SysKey\SysKey\obj\Release\SysKey.csproj.CoreCompileInputs.cache
+C:\Users\conno\source\repos\SysKey\SysKey\obj\Release\SysKey.exe
+C:\Users\conno\source\repos\SysKey\SysKey\obj\Release\SysKey.pdb
