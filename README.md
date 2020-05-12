@@ -17,3 +17,5 @@ Recomended to replace the actual programs on the vm and disable alternitives suc
    * Trying to enter a colon or semicolon will print a smiley face :-)
    * Trying to enter a hyphen will insert an underscore.
    * Font chooser works as expected as of now but will be intentionally broken in the future.
+   * Font slowly gets bigger as notepad is open
+   * Font scale level using Ctrl+[ and Ctrl+] but in reverse.
