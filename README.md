@@ -3,7 +3,7 @@ C# .Net Framework scambait toolkit. Replacements for standard Windows programs w
 
 Recomended to replace the actual programs on the vm and disable alternitives such as wordpad. If you have any requests of features feel free to ask either on discord (BlueberryHype#6486) or add a issue with the request.
 
-*Read Setup.md for recommended intallation procedure*
+> *Read Setup.md for recommended intallation procedure*
 
 1. Syskey
    * After setting a password the passwords are written to a textfile for inspection.
@@ -30,7 +30,7 @@ Recomended to replace the actual programs on the vm and disable alternitives suc
    * Scammers normally have to type these into notepad so wont realise they arent real until later on
    
 1. Tree
-   * Currently being reworked for compatability between Windows 10 and Window 7
+   * Completley reworked as I was overcomplicated a very simple program, reduced filesize from ~46Kb to ~6Kb
    * Appends a message to the output off tree confirming that their are no viruses present on the machine
    * Everyone knows that tree.exe is the No. 1 antivirus on the Windows Platform [Citation Needed]
    
