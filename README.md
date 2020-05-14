@@ -5,6 +5,8 @@ Recomended to replace the actual programs on the vm and disable alternitives suc
 
 > *Read Setup.md for recommended intallation procedure*
 
+Feature list will likely get more sarcastic as items are added
+
 1. Syskey
    * After setting a password the passwords are written to a textfile for inspection.
    * Numerous popups with a message of your chosing(by editing settings.txt) are show which move as you try to hover over them
