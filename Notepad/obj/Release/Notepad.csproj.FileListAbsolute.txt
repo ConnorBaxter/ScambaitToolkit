@@ -1,0 +1,11 @@
+C:\Users\conno\source\repos\ConnorBaxter\ScambaitToolkit\Notepad\bin\Release\Notepad.exe.config
+C:\Users\conno\source\repos\ConnorBaxter\ScambaitToolkit\Notepad\bin\Release\Notepad.exe
+C:\Users\conno\source\repos\ConnorBaxter\ScambaitToolkit\Notepad\bin\Release\Notepad.pdb
+C:\Users\conno\source\repos\ConnorBaxter\ScambaitToolkit\Notepad\obj\Release\Notepad.csprojAssemblyReference.cache
+C:\Users\conno\source\repos\ConnorBaxter\ScambaitToolkit\Notepad\obj\Release\Notepad.FontForm.resources
+C:\Users\conno\source\repos\ConnorBaxter\ScambaitToolkit\Notepad\obj\Release\Notepad.MainForm.resources
+C:\Users\conno\source\repos\ConnorBaxter\ScambaitToolkit\Notepad\obj\Release\Notepad.Properties.Resources.resources
+C:\Users\conno\source\repos\ConnorBaxter\ScambaitToolkit\Notepad\obj\Release\Notepad.csproj.GenerateResource.cache
+C:\Users\conno\source\repos\ConnorBaxter\ScambaitToolkit\Notepad\obj\Release\Notepad.csproj.CoreCompileInputs.cache
+C:\Users\conno\source\repos\ConnorBaxter\ScambaitToolkit\Notepad\obj\Release\Notepad.exe
+C:\Users\conno\source\repos\ConnorBaxter\ScambaitToolkit\Notepad\obj\Release\Notepad.pdb

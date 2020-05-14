@@ -11,35 +11,12 @@ namespace tree
 {
     class Program
     {
-        static bool Windows7 = false;
-
+        
         static void Main(string[] args)
         {
-            OperatingSystem version = Environment.OSVersion;
-            if (version.Version.Major == 6)
-            {
-                if (version.Version.Minor == 1)
-                {
-                    Windows7 = true;
-                }
-            }
+            string pathToTree = @"C:\Windows\System32\tree.com";
 
-            string fileOutName = Path.Combine(Environment.CurrentDirectory, "_origTree.com");
-            byte[] bytes = Resource.win10_tree;
-            if (Windows7)
-            {
-                bytes = Resource.win7_tree;
-            }
-
-            if (!File.Exists(fileOutName))
-            {
-                using (FileStream fs = new FileStream(fileOutName, FileMode.CreateNew, FileAccess.Write))
-                {
-                    fs.Write(bytes, 0, bytes.Length);
-                }
-            }
-
-            ProcessStartInfo psi = new ProcessStartInfo(fileOutName);
+            ProcessStartInfo psi = new ProcessStartInfo(pathToTree);
             psi.UseShellExecute = false;
             psi.RedirectStandardInput = true;
             psi.RedirectStandardOutput = true;
