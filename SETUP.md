@@ -12,6 +12,14 @@ This is mainly for Windows 7 as that is the VM I use for scambaiting. Im sure th
 > *be careful using this - editing path can go wrong and trust me its annoying to fix*
 
 # SysKey and Notepad
-At the moment the best way to do this is to just rename the origninal files to something else and replace them with these.
+1. Click start button and type "notepad"
+1. The first result should be a shortcut to the real notepad
+1. Right click and goto properties
+1. Change the shortcut location to the location of your fake notepad
+> This should work 9/10 times, if you also add the folder location to path then both the start menu shortcut and running notepad.exe from command line should open the fake notepad. I'm not sure of any other ways to run notepad so this should work most in most scenarios.
+
+
+-- Alternative Method --
+Another way to do this is to just rename the origninal files to something else and replace them with these.
 This is far from ideal but I'm still researching a better way to start these instead.
 It is not as simple as putting them in the same folder as above as if you open this from CMD it will open the fake versions but if you open these from start menu it will open the real version. If anyone has a way to do this without overwriting the originals please let me know.
