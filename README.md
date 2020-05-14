@@ -1,6 +1,9 @@
 # ScambaitToolkit
 C# .Net Framework scambait toolkit. Replacements for standard Windows programs with a little extra added ;)
+
 Recomended to replace the actual programs on the vm and disable alternitives such as wordpad. If you have any requests of features feel free to ask either on discord (BlueberryHype#6486) or add a issue with the request.
+
+*Read Setup.md for recommended intallation procedure*
 
 1. Syskey
    * After setting a password the passwords are written to a textfile for inspection.
