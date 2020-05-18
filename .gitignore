@@ -4,4 +4,6 @@
 
 *.pdb
 *.exe
+*.cache
 /.vs
+FakeRansomware/*
