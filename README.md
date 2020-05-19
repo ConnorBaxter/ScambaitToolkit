@@ -26,19 +26,29 @@ Feature list will likely get more sarcastic as items are added
    * Font scale level using Ctrl+[ and Ctrl+] but in reverse.
    
 1. Giftcard Generator
-   * Very simple random number generator
-   * Just creates "realistic" gift card number and pins
-   * i.e correct card number length and charset and pin length
-   * Scammers normally have to type these into notepad so wont realise they arent real until later on
+   * Very simple random number generator.
+   * Just creates "realistic" gift card number and pins.
+   * i.e correct card number length and charset and pin length.
+   * Scammers normally have to type these into notepad so wont realise they arent real until later on.
    
 1. Tree
-   * Completley reworked as I was overcomplicated a very simple program, reduced filesize from ~46Kb to ~6Kb
-   * Appends a message to the output off tree confirming that their are no viruses present on the machine
+   * Completley reworked as I was overcomplicated a very simple program, reduced filesize from ~46Kb to ~6Kb.
+   * Appends a message to the output off tree confirming that their are no viruses present on the machine.
    * Everyone knows that tree.exe is the No. 1 antivirus on the Windows Platform [Citation Needed]
    
 1. Netstat
-   * Doesnt run netstat at all
-   * Pretends to run netstat
-   * Displays zero connections on no protocol with no forigen address and no state 
-   * Displays a message proving that a lack of netstat connections proves that their are no hackers in the system
-   * Netstat is an elite tool only used by the best of the blue team to defend agasint dark web pro hackers
+   * Doesnt run netstat at all.
+   * Pretends to run netstat.
+   * Displays zero connections on no protocol with no forigen address and no state.
+   * Displays a message proving that a lack of netstat connections proves that their are no hackers in the system.
+   * Netstat is an elite tool only used by the best of the blue team to defend agasint dark web pro hackers.
+
+> Please read this if you intend to use it
+1. GOD Ransomware
+   * Fake ransomware that acts as a real one.
+   * prints scary messages such as "all your file are belong to us" and "file x has been encrypted".
+   * big red countdown timer for extra terror.
+   * [_!IMPORTANT!_]ALT+F4 and clicking the close button are disabled. Right click + "payment link" to actually close the form!
+   * No files are actually encrypted!
+   * Most things about the program are easily changed from the txt files included [message, bitcoin address, file names]
+   * Tempted to add more customizability to this, name of ransomware, colours, make it differnent per machine.
