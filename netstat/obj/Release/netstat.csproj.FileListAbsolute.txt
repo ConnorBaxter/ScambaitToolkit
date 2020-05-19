@@ -4,3 +4,4 @@ C:\Users\conno\Source\Repos\ConnorBaxter\ScambaitToolkit\netstat\bin\Release\net
 C:\Users\conno\Source\Repos\ConnorBaxter\ScambaitToolkit\netstat\obj\Release\netstat.csproj.CoreCompileInputs.cache
 C:\Users\conno\Source\Repos\ConnorBaxter\ScambaitToolkit\netstat\obj\Release\netstat.exe
 C:\Users\conno\Source\Repos\ConnorBaxter\ScambaitToolkit\netstat\obj\Release\netstat.pdb
+C:\Users\conno\Source\Repos\ConnorBaxter\ScambaitToolkit\netstat\obj\Release\netstat.csprojAssemblyReference.cache
