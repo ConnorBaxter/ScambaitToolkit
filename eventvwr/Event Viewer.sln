@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.4
+Project("{A33008B1-5DAC-44D5-9060-242E3B6E38F2}") = "Event Viewer", "Event Viewer\Event Viewer.booproj", "{341075B1-C1B5-47D7-AEFD-43EB14A7C078}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{341075B1-C1B5-47D7-AEFD-43EB14A7C078}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{341075B1-C1B5-47D7-AEFD-43EB14A7C078}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{341075B1-C1B5-47D7-AEFD-43EB14A7C078}.Release|Any CPU.Build.0 = Release|Any CPU
+		{341075B1-C1B5-47D7-AEFD-43EB14A7C078}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+EndGlobal
