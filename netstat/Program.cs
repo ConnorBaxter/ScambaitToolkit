@@ -13,8 +13,8 @@ namespace netstat
             Console.WriteLine("\n");
             Console.WriteLine("Active Connections");
             Console.WriteLine("\n");
-            Console.WriteLine("  Proto          Local Address           Foriegn Address         State");
-            Console.WriteLine("\n\nNo foriegn addresses found. Computer is secure from hackers!");
+            Console.WriteLine("  Proto          Local Address           Foreign Address         State");
+            Console.WriteLine("\n\nNo foreign addresses found. Computer is secure from hackers!");
             Console.WriteLine("\n\n");
 #if DEBUG
             Console.ReadLine();
