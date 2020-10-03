@@ -1,0 +1,13 @@
+C:\Users\conno\Source\Repos\ConnorBaxter\ScambaitToolkit\FakeRansomware\bin\Release\files.txt
+C:\Users\conno\Source\Repos\ConnorBaxter\ScambaitToolkit\FakeRansomware\bin\Release\message.txt
+C:\Users\conno\Source\Repos\ConnorBaxter\ScambaitToolkit\FakeRansomware\bin\Release\FakeRansomware.exe.config
+C:\Users\conno\Source\Repos\ConnorBaxter\ScambaitToolkit\FakeRansomware\bin\Release\FakeRansomware.exe
+C:\Users\conno\Source\Repos\ConnorBaxter\ScambaitToolkit\FakeRansomware\bin\Release\FakeRansomware.pdb
+C:\Users\conno\Source\Repos\ConnorBaxter\ScambaitToolkit\FakeRansomware\obj\Release\FakeRansomware.csprojAssemblyReference.cache
+C:\Users\conno\Source\Repos\ConnorBaxter\ScambaitToolkit\FakeRansomware\obj\Release\FakeRansomware.AboutForm.resources
+C:\Users\conno\Source\Repos\ConnorBaxter\ScambaitToolkit\FakeRansomware\obj\Release\FakeRansomware.RansomWareForm.resources
+C:\Users\conno\Source\Repos\ConnorBaxter\ScambaitToolkit\FakeRansomware\obj\Release\FakeRansomware.Properties.Resources.resources
+C:\Users\conno\Source\Repos\ConnorBaxter\ScambaitToolkit\FakeRansomware\obj\Release\FakeRansomware.csproj.GenerateResource.cache
+C:\Users\conno\Source\Repos\ConnorBaxter\ScambaitToolkit\FakeRansomware\obj\Release\FakeRansomware.csproj.CoreCompileInputs.cache
+C:\Users\conno\Source\Repos\ConnorBaxter\ScambaitToolkit\FakeRansomware\obj\Release\FakeRansomware.exe
+C:\Users\conno\Source\Repos\ConnorBaxter\ScambaitToolkit\FakeRansomware\obj\Release\FakeRansomware.pdb

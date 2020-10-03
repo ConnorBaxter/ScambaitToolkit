@@ -1,0 +1,13 @@
+﻿All your file are belong to us.
+
+All of your files have been ecrypted using RSA-2048 encryption and then ran through our homemade encryption algoritm to stop them every being recoverd.
+However we are not awful people and as such have decided to let you use your computer as normal.
+Every 20 minutes a new file will be ecrypted.
+Eventually all your files will be unrecoverable.
+To stop this process and recover all past files, we ask for a small donation of $570 to the below bitcoin address.
+We have also stopped you from copying files from the PC to another so you cannot make backups.
+All system restore points have been kurupted so you cannot restore this machine.
+We have also forwared all saved logins and cookies to our command and control server.
+We will not use this credentials if payment is made, however after lack of payment will will use these.
+
+Thank you for your time and files.

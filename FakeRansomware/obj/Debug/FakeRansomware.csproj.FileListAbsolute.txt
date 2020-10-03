@@ -1,0 +1,15 @@
+C:\Users\conno\Source\Repos\ConnorBaxter\ScambaitToolkit\FakeRansomware\bin\Debug\FakeRansomware.exe.config
+C:\Users\conno\Source\Repos\ConnorBaxter\ScambaitToolkit\FakeRansomware\bin\Debug\FakeRansomware.exe
+C:\Users\conno\Source\Repos\ConnorBaxter\ScambaitToolkit\FakeRansomware\bin\Debug\FakeRansomware.pdb
+C:\Users\conno\Source\Repos\ConnorBaxter\ScambaitToolkit\FakeRansomware\obj\Debug\FakeRansomware.RansomWareForm.resources
+C:\Users\conno\Source\Repos\ConnorBaxter\ScambaitToolkit\FakeRansomware\obj\Debug\FakeRansomware.Properties.Resources.resources
+C:\Users\conno\Source\Repos\ConnorBaxter\ScambaitToolkit\FakeRansomware\obj\Debug\FakeRansomware.csproj.GenerateResource.cache
+C:\Users\conno\Source\Repos\ConnorBaxter\ScambaitToolkit\FakeRansomware\obj\Debug\FakeRansomware.csproj.CoreCompileInputs.cache
+C:\Users\conno\Source\Repos\ConnorBaxter\ScambaitToolkit\FakeRansomware\obj\Debug\FakeRansomware.exe
+C:\Users\conno\Source\Repos\ConnorBaxter\ScambaitToolkit\FakeRansomware\obj\Debug\FakeRansomware.pdb
+C:\Users\conno\Source\Repos\ConnorBaxter\ScambaitToolkit\FakeRansomware\bin\Debug\message.txt
+C:\Users\conno\Source\Repos\ConnorBaxter\ScambaitToolkit\FakeRansomware\bin\Debug\files.txt
+C:\Users\conno\Source\Repos\ConnorBaxter\ScambaitToolkit\FakeRansomware\obj\Debug\FakeRansomware.AboutForm.resources
+C:\Users\conno\Source\Repos\ConnorBaxter\ScambaitToolkit\FakeRansomware\obj\Debug\FakeRansomware.csprojAssemblyReference.cache
+C:\Users\conno\Source\Repos\ConnorBaxter\ScambaitToolkit\FakeRansomware\bin\Debug\bitcoinaddress.txt
+C:\Users\conno\Source\Repos\ConnorBaxter\ScambaitToolkit\FakeRansomware\bin\Debug\message_hindi.txt
