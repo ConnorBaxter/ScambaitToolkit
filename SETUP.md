@@ -11,7 +11,7 @@ This is mainly for Windows 7 as that is the VM I use for scambaiting. Im sure th
 1. Open up a CMD instance and test, if it doesnt work try again.
 > *be careful using this - editing path can go wrong and trust me its annoying to fix*
 
-# SysKey and Notepad
+# SysKey and Notepad and EventVwr
 1. Click start button and type "notepad"
 1. The first result should be a shortcut to the real notepad
 1. Right click and goto properties
