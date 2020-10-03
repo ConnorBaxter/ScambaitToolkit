@@ -43,6 +43,12 @@ Feature list will likely get more sarcastic as items are added
    * Displays a message proving that a lack of netstat connections proves that their are no hackers in the system.
    * Netstat is an elite tool only used by the best of the blue team to defend agasint dark web pro hackers.
 
+1. EventVwr
+   * Thanks to @RealDoigt
+   * Fake Event viewer
+   * "Locks" form to "protect machine" because of "foreign" connection
+   * Uses screenshot of event viewer
+
 > Please read this if you intend to use it
 1. GOD Ransomware
    * Fake ransomware that acts as a real one.
