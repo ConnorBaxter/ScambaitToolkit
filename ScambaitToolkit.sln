@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "netstat", "netstat\netstat.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FakeRansomware", "FakeRansomware\FakeRansomware.csproj", "{FBC5712C-9A69-4E0C-82C9-59BAB9EDD497}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eventvwr", "eventvwr\eventvwr.csproj", "{2290F1D0-2A20-4BC9-8F14-6A242BCA257A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{FBC5712C-9A69-4E0C-82C9-59BAB9EDD497}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FBC5712C-9A69-4E0C-82C9-59BAB9EDD497}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FBC5712C-9A69-4E0C-82C9-59BAB9EDD497}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2290F1D0-2A20-4BC9-8F14-6A242BCA257A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2290F1D0-2A20-4BC9-8F14-6A242BCA257A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2290F1D0-2A20-4BC9-8F14-6A242BCA257A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2290F1D0-2A20-4BC9-8F14-6A242BCA257A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
