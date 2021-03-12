@@ -1,7 +1,7 @@
 # ScambaitToolkit
 C# .Net Framework scambait toolkit. Replacements for standard Windows programs with a little extra added ;)
 
-Recomended to replace the actual programs on the vm and disable alternitives such as wordpad. If you have any requests of features feel free to ask either on discord (BlueberryHype#6486) or add a issue with the request.
+Recomended to replace the actual programs on the vm and disable alternitives such as wordpad. If you have any requests of features feel free to ask either on discord (BlueberryHype#6486) or create an issue.
 
 > *Read Setup.md for recommended intallation procedure*
 
@@ -23,7 +23,7 @@ Feature list will likely get more sarcastic as items are added
    * Trying to enter a hyphen will insert an underscore.
    * Font chooser works as expected as of now but will be intentionally broken in the future.
    * Font slowly gets bigger as notepad is open
-   * Font scale level using Ctrl+[ and Ctrl+] but in reverse.
+   * Font scale level using Ctrl+[ and Ctrl+ ] but in reverse.
    
 1. Giftcard Generator
    * Very simple random number generator.
@@ -32,7 +32,7 @@ Feature list will likely get more sarcastic as items are added
    * Scammers normally have to type these into notepad so wont realise they arent real until later on.
    
 1. Tree
-   * Completley reworked as I was overcomplicated a very simple program, reduced filesize from ~46Kb to ~6Kb.
+   * Completley reworked as I was overcomplicating a very simple program, reduced filesize from ~46Kb to ~6Kb.
    * Appends a message to the output off tree confirming that their are no viruses present on the machine.
    * Everyone knows that tree.exe is the No. 1 antivirus on the Windows Platform [Citation Needed]
    
@@ -43,11 +43,14 @@ Feature list will likely get more sarcastic as items are added
    * Displays a message proving that a lack of netstat connections proves that their are no hackers in the system.
    * Netstat is an elite tool only used by the best of the blue team to defend agasint dark web pro hackers.
 
-1. EventVwr
-   * Thanks to @RealDoigt
+1. Event Viewer 2.0
+   * Thanks to @RealDoigt for the first version, however to try and keep the project mainly C# it has been rewritten (original still available in deprecated/eventvwr_boo)
    * Fake Event viewer
-   * "Locks" form to "protect machine" because of "foreign" connection
-   * Uses screenshot of event viewer
+   * Uses screenshots of event viewer componets to mimic disabled controls
+   * Displays warning that event viewer is disabled 
+   * Offers ability to re-enbaled by going into options and typing "I am a stupid scammer"
+   * Doesnt actually do anything after typing this
+   * Looks kinda fake due to using screenshot however I couldnt replicate the orignal look using winforms
 
 > Please read this if you intend to use it
 1. GOD Ransomware
@@ -57,4 +60,4 @@ Feature list will likely get more sarcastic as items are added
    * [_!IMPORTANT!_]ALT+F4 and clicking the close button are disabled. Right click + "payment link" to actually close the form!
    * No files are actually encrypted!
    * Most things about the program are easily changed from the txt files included [message, bitcoin address, file names]
-   * Tempted to add more customizability to this, name of ransomware, colours, make it differnent per machine.
+   * More customizability to this is in progress, i.e. name of ransomware, colours, make it differnent per machine.
