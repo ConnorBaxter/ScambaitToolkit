@@ -53,7 +53,7 @@ Feature list will likely get more sarcastic as items are added
    * Displays warning that event viewer is disabled 
    * Offers ability to re-enbaled by going into options and typing "I am a stupid scammer"
    * Doesnt actually do anything after typing this
-   * Looks kinda fake due to using screenshot however I couldnt replicate the orignal look using winforms
+   * Looks kinda fake due to using screenshots however I couldnt replicate the orignal look using winforms
 
 1. GOD Ransomware
    > Please read this if you intend to use it
