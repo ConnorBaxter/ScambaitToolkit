@@ -5,3 +5,10 @@ C:\Users\conno\Source\Repos\ConnorBaxter\ScambaitToolkit\tree\obj\Debug\tree.csp
 C:\Users\conno\Source\Repos\ConnorBaxter\ScambaitToolkit\tree\obj\Debug\tree.csproj.CoreCompileInputs.cache
 C:\Users\conno\Source\Repos\ConnorBaxter\ScambaitToolkit\tree\obj\Debug\tree.exe
 C:\Users\conno\Source\Repos\ConnorBaxter\ScambaitToolkit\tree\obj\Debug\tree.pdb
+C:\Users\Connor\source\repos\ScambaitToolkit\tree\bin\Debug\tree.exe.config
+C:\Users\Connor\source\repos\ScambaitToolkit\tree\bin\Debug\tree.exe
+C:\Users\Connor\source\repos\ScambaitToolkit\tree\bin\Debug\tree.pdb
+C:\Users\Connor\source\repos\ScambaitToolkit\tree\obj\Debug\tree.csprojAssemblyReference.cache
+C:\Users\Connor\source\repos\ScambaitToolkit\tree\obj\Debug\tree.csproj.CoreCompileInputs.cache
+C:\Users\Connor\source\repos\ScambaitToolkit\tree\obj\Debug\tree.exe
+C:\Users\Connor\source\repos\ScambaitToolkit\tree\obj\Debug\tree.pdb
