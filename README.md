@@ -34,7 +34,7 @@ Feature list will likely get more sarcastic as items are added
 1. Tree
    * Completley reworked as I was overcomplicating a very simple program, reduced filesize from ~46Kb to ~6Kb.
    * Has 2 modes which can be chosen by changing a boolean inside Program.cs in Main
-        * Can run forever so tree never ends (scammer like to run tree and then type something that will displayed when it ends)
+        * Can run forever so tree never ends (scammer like to run tree and then type something that will be displayed when it ends)
         * OR
         * Can append a message to the output of tree confirming that there are no viruses present on the machine.
    * Everyone knows that tree.exe is the No. 1 antivirus on the Windows Platform [Citation Needed]
@@ -58,8 +58,8 @@ Feature list will likely get more sarcastic as items are added
 1. GOD Ransomware
    > Please read this if you intend to use it
    * Fake ransomware that acts as a real one.
-   * prints scary messages such as "all your file are belong to us" and "file x has been encrypted".
-   * big red countdown timer for extra terror.
+   * Prints scary messages such as "all your file are belong to us" and "file x has been encrypted".
+   * Big red countdown timer for extra terror.
    * [_!IMPORTANT!_]ALT+F4 and clicking the close button are disabled. Right click + "payment link" to actually close the form!
    * No files are actually encrypted!
    * Most things about the program are easily changed from the txt files included [message, bitcoin address, file names]
