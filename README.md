@@ -33,7 +33,10 @@ Feature list will likely get more sarcastic as items are added
    
 1. Tree
    * Completley reworked as I was overcomplicating a very simple program, reduced filesize from ~46Kb to ~6Kb.
-   * Appends a message to the output off tree confirming that their are no viruses present on the machine.
+   * Has 2 modes which can be chosen by changing a boolean inside Program.cs in Main
+        * Can run forever so tree never ends (scammer like to run tree and then type something that will displayed when it ends)
+        * OR
+        * Can append a message to the output of tree confirming that there are no viruses present on the machine.
    * Everyone knows that tree.exe is the No. 1 antivirus on the Windows Platform [Citation Needed]
    
 1. Netstat
