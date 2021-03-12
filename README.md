@@ -55,8 +55,8 @@ Feature list will likely get more sarcastic as items are added
    * Doesnt actually do anything after typing this
    * Looks kinda fake due to using screenshot however I couldnt replicate the orignal look using winforms
 
-> Please read this if you intend to use it
 1. GOD Ransomware
+   > Please read this if you intend to use it
    * Fake ransomware that acts as a real one.
    * prints scary messages such as "all your file are belong to us" and "file x has been encrypted".
    * big red countdown timer for extra terror.
