@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FakeRansomware", "FakeRanso
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eventvwr", "eventvwr\eventvwr.csproj", "{2290F1D0-2A20-4BC9-8F14-6A242BCA257A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FakeFileCreator", "FakeFileCreator\FakeFileCreator.csproj", "{7609DDC1-DBBD-4C63-ADE6-E123C07E0A90}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{2290F1D0-2A20-4BC9-8F14-6A242BCA257A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2290F1D0-2A20-4BC9-8F14-6A242BCA257A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2290F1D0-2A20-4BC9-8F14-6A242BCA257A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7609DDC1-DBBD-4C63-ADE6-E123C07E0A90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7609DDC1-DBBD-4C63-ADE6-E123C07E0A90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7609DDC1-DBBD-4C63-ADE6-E123C07E0A90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7609DDC1-DBBD-4C63-ADE6-E123C07E0A90}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

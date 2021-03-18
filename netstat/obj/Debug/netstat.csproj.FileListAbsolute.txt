@@ -5,3 +5,10 @@ C:\Users\conno\Source\Repos\ConnorBaxter\ScambaitToolkit\netstat\obj\Debug\netst
 C:\Users\conno\Source\Repos\ConnorBaxter\ScambaitToolkit\netstat\obj\Debug\netstat.csproj.CoreCompileInputs.cache
 C:\Users\conno\Source\Repos\ConnorBaxter\ScambaitToolkit\netstat\obj\Debug\netstat.exe
 C:\Users\conno\Source\Repos\ConnorBaxter\ScambaitToolkit\netstat\obj\Debug\netstat.pdb
+C:\Users\Connor\source\repos\ScambaitToolkit\netstat\bin\Debug\netstat.exe.config
+C:\Users\Connor\source\repos\ScambaitToolkit\netstat\bin\Debug\netstat.exe
+C:\Users\Connor\source\repos\ScambaitToolkit\netstat\bin\Debug\netstat.pdb
+C:\Users\Connor\source\repos\ScambaitToolkit\netstat\obj\Debug\netstat.csprojAssemblyReference.cache
+C:\Users\Connor\source\repos\ScambaitToolkit\netstat\obj\Debug\netstat.csproj.CoreCompileInputs.cache
+C:\Users\Connor\source\repos\ScambaitToolkit\netstat\obj\Debug\netstat.exe
+C:\Users\Connor\source\repos\ScambaitToolkit\netstat\obj\Debug\netstat.pdb

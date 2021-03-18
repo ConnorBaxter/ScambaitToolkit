@@ -59,13 +59,13 @@
             // txtTimer
             // 
             this.txtTimer.BackColor = System.Drawing.Color.DimGray;
-            this.txtTimer.Font = new System.Drawing.Font("Digital-7 Mono", 71.99999F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtTimer.Font = new System.Drawing.Font("Microsoft Sans Serif", 69F);
             this.txtTimer.ForeColor = System.Drawing.Color.Red;
             this.txtTimer.Location = new System.Drawing.Point(12, 337);
             this.txtTimer.Name = "txtTimer";
             this.txtTimer.ReadOnly = true;
             this.txtTimer.ShortcutsEnabled = false;
-            this.txtTimer.Size = new System.Drawing.Size(233, 102);
+            this.txtTimer.Size = new System.Drawing.Size(233, 112);
             this.txtTimer.TabIndex = 1;
             this.txtTimer.Text = "00:00";
             // 

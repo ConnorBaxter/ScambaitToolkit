@@ -8,3 +8,13 @@ C:\Users\conno\Source\Repos\ConnorBaxter\ScambaitToolkit\GiftcardGenerator\obj\D
 C:\Users\conno\Source\Repos\ConnorBaxter\ScambaitToolkit\GiftcardGenerator\obj\Debug\GiftcardGenerator.csproj.CoreCompileInputs.cache
 C:\Users\conno\Source\Repos\ConnorBaxter\ScambaitToolkit\GiftcardGenerator\obj\Debug\GiftcardGenerator.exe
 C:\Users\conno\Source\Repos\ConnorBaxter\ScambaitToolkit\GiftcardGenerator\obj\Debug\GiftcardGenerator.pdb
+C:\Users\Connor\source\repos\ScambaitToolkit\GiftcardGenerator\bin\Debug\GiftcardGenerator.exe.config
+C:\Users\Connor\source\repos\ScambaitToolkit\GiftcardGenerator\bin\Debug\GiftcardGenerator.exe
+C:\Users\Connor\source\repos\ScambaitToolkit\GiftcardGenerator\bin\Debug\GiftcardGenerator.pdb
+C:\Users\Connor\source\repos\ScambaitToolkit\GiftcardGenerator\obj\Debug\GiftcardGenerator.csprojAssemblyReference.cache
+C:\Users\Connor\source\repos\ScambaitToolkit\GiftcardGenerator\obj\Debug\GiftcardGenerator.MainForm.resources
+C:\Users\Connor\source\repos\ScambaitToolkit\GiftcardGenerator\obj\Debug\GiftcardGenerator.Properties.Resources.resources
+C:\Users\Connor\source\repos\ScambaitToolkit\GiftcardGenerator\obj\Debug\GiftcardGenerator.csproj.GenerateResource.cache
+C:\Users\Connor\source\repos\ScambaitToolkit\GiftcardGenerator\obj\Debug\GiftcardGenerator.csproj.CoreCompileInputs.cache
+C:\Users\Connor\source\repos\ScambaitToolkit\GiftcardGenerator\obj\Debug\GiftcardGenerator.exe
+C:\Users\Connor\source\repos\ScambaitToolkit\GiftcardGenerator\obj\Debug\GiftcardGenerator.pdb

@@ -9,3 +9,14 @@ C:\Users\conno\Source\Repos\ConnorBaxter\ScambaitToolkit\Notepad\obj\Debug\Notep
 C:\Users\conno\Source\Repos\ConnorBaxter\ScambaitToolkit\Notepad\obj\Debug\Notepad.exe
 C:\Users\conno\Source\Repos\ConnorBaxter\ScambaitToolkit\Notepad\obj\Debug\Notepad.pdb
 C:\Users\conno\Source\Repos\ConnorBaxter\ScambaitToolkit\Notepad\obj\Debug\Notepad.FontForm.resources
+C:\Users\Connor\source\repos\ScambaitToolkit\Notepad\bin\Debug\Notepad.exe.config
+C:\Users\Connor\source\repos\ScambaitToolkit\Notepad\bin\Debug\Notepad.exe
+C:\Users\Connor\source\repos\ScambaitToolkit\Notepad\bin\Debug\Notepad.pdb
+C:\Users\Connor\source\repos\ScambaitToolkit\Notepad\obj\Debug\Notepad.csprojAssemblyReference.cache
+C:\Users\Connor\source\repos\ScambaitToolkit\Notepad\obj\Debug\Notepad.FontForm.resources
+C:\Users\Connor\source\repos\ScambaitToolkit\Notepad\obj\Debug\Notepad.MainForm.resources
+C:\Users\Connor\source\repos\ScambaitToolkit\Notepad\obj\Debug\Notepad.Properties.Resources.resources
+C:\Users\Connor\source\repos\ScambaitToolkit\Notepad\obj\Debug\Notepad.csproj.GenerateResource.cache
+C:\Users\Connor\source\repos\ScambaitToolkit\Notepad\obj\Debug\Notepad.csproj.CoreCompileInputs.cache
+C:\Users\Connor\source\repos\ScambaitToolkit\Notepad\obj\Debug\Notepad.exe
+C:\Users\Connor\source\repos\ScambaitToolkit\Notepad\obj\Debug\Notepad.pdb

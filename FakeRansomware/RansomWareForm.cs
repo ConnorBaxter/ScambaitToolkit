@@ -26,13 +26,15 @@ namespace FakeRansomware
 
         private Thread t;
 
+        private Settings settings = new Settings();
+
         public RansomWareForm()
         {
             InitializeComponent();
 
-#if DEBUG
+            #if DEBUG
             this.TopMost = false;
-#endif
+            #endif
 
             ContextMenu contextMenu = new ContextMenu();
             contextMenu.MenuItems.Add("About", showAbout);
@@ -43,6 +45,10 @@ namespace FakeRansomware
             txtMainMessage.ContextMenu = contextMenu;
             txtFiles.ContextMenu = contextMenu;
             txtTimer.ContextMenu = contextMenu;
+
+            //settings.debugCreateSettingsFile();
+            //settings = getFormDesign();
+            //ChangeTheme();
 
             timeToEncrpt = normTime;
             
@@ -69,6 +75,33 @@ namespace FakeRansomware
                 bitcoinaddress = sr.ReadLine();
             }
             sr.Close();
+        }
+
+        private Settings getFormDesign()
+        {
+            Settings s = new Settings();
+
+            s.LoadFromJSON();
+
+            return s;
+        }
+
+        private void ChangeTheme()
+        {
+            //background colors
+            this.BackColor = settings.BackgroundColourPrimary;
+            txtMainMessage.BackColor = settings.BackgroundColourSecondary;
+            txtFiles.BackColor = settings.BackgroundColourSecondary;
+            txtBitcoinAddress.BackColor = settings.BackgroundColourTertiary;
+            txtTimer.BackColor = settings.BackgroundColourPrimary;
+
+            //foreground colors
+            this.ForeColor = settings.ForegroundColourPrimary;
+            txtMainMessage.ForeColor = settings.ForegroundColourPrimary;
+            txtFiles.ForeColor = settings.BackgroundColourSecondary;
+            txtBitcoinAddress.ForeColor = settings.BackgroundColourTertiary;
+
+            txtTimer.ForeColor = settings.CountdownColour;
         }
 
         private void showAbout(object sender, EventArgs e)
