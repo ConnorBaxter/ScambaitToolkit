@@ -56,13 +56,13 @@ Feature list will likely get more sarcastic as items are added
    * Looks kinda fake due to using screenshots however I couldnt replicate the orignal look using winforms
 
 1. Fake file creator (W.I.P)
-  * Will be used to make new VMs look more realistic
-  * Crates fake documents using random names so far
-  * Names are not believable due to word list
-  * After first run can edit words.txt and use better words
-  * Will be improved to make real looking files, with content
-  * Will also add images, music, videos
-  * Please leave suggetions and feedback in issues
+   * Will be used to make new VMs look more realistic
+   * Crates fake documents using random names so far
+   * Names are not believable due to word list
+   * After first run can edit words.txt and use better words
+   * Will be improved to make real looking files, with content
+   * Will also add images, music, videos
+   * Please leave suggetions and feedback in issues
 
 1. GOD Ransomware
    > Please read this if you intend to use it
