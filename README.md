@@ -1,7 +1,7 @@
 # ScambaitToolkit
 C# .Net Framework scambait toolkit. Replacements for standard Windows programs with a little extra added ;)
 
-Recomended to replace the actual programs on the vm and disable alternitives such as wordpad. If you have any requests of features feel free to ask either on discord (BlueberryHype#6486) or create an issue.
+Recomended to replace the actual programs on the vm and disable alternitives such as wordpad. If you have any requests of features feel free to create an issue.
 
 > *Read Setup.md for recommended intallation procedure*
 
